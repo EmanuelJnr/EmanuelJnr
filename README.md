@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - Estagiário na Compass UOL
-<img src="https://yt3.googleusercontent.com/UcWWRt13vLaVB2ZYCMtduhHsBYssAvmMkIPI6p-tnKZ8shQ2O11AEoOkCV-P6mOdiQHRde5MNSc=s176-c-k-c0x00ffffff-no-rj" alt="uol" width="23" height="23"/>
+<img src="https://yt3.googleusercontent.com/UcWWRt13vLaVB2ZYCMtduhHsBYssAvmMkIPI6p-tnKZ8shQ2O11AEoOkCV-P6mOdiQHRde5MNSc=s176-c-k-c0x00ffffff-no-rj" alt="uol" width="20" height="20"/>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline-block width="100%><br>
