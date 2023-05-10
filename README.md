@@ -2,6 +2,7 @@
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - Estagiário na Compass UOL
+<img src="https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg" alt="uol" width="10" height="10"/>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline-block width="100%><br>
