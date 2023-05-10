@@ -1,7 +1,7 @@
 ### Olá, sou Emanuel Júnior👋
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- <img src="https://github.com/dev-for-dev/Jogo-Da-Velha/blob/main/uol.png" alt="uol" width="20" height="20"/> Estagiário na Compass UOL
+- <img src="https://github.com/dev-for-dev/Jogo-Da-Velha/blob/main/uol.png" alt="https://compass.uol/pt/home/"/></a> width="20" height="20"/> Estagiário na Compass UOL
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline-block width="100%><br>
