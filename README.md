@@ -2,7 +2,7 @@
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
 - <a href="https://compass.uol/pt/home/" target="blank">
-  <img src="https://github.com/dev-for-dev/Jogo-Da-Velha/blob/main/uol.png" alt="https://compass.uol/pt/home/" width="20" height="20"/></a> Estagiário na Compass UOL
+  <img src="https://github.com/dev-for-dev/Jogo-Da-Velha/blob/main/uol.png" alt="https://compass.uol/pt/home/" width="18" height="18"/></a> Estagiário na Compass UOL
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline-block width="100%><br>
