@@ -1,7 +1,7 @@
 ### Olá, sou Emanuel Júnior👋
 
 - <a href="https://www.ifpb.edu.br/monteiro" target="blank">
-  <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a>       Graduando em Análise e Desenvolvimento de Sistemas
+  <img src="https://avatars.githubusercontent.com/u/2523928?s=200&v=4" alt="https://www.ifpb.edu.br/monteiro" width="15" height="15"/></a> Graduando em Análise e Desenvolvimento de Sistemas
 - <a href="https://compass.uol/pt/home/" target="blank">
   <img src="https://github.com/dev-for-dev/Jogo-Da-Velha/blob/main/uol.png" alt="https://compass.uol/pt/home/" width="15" height="15"/></a> Estagiário na Compass UOL
 
