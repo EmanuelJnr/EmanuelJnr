@@ -19,5 +19,5 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/emanuel-junior-947276271/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       alt="https://www.linkedin.com/in/emanuel-junior-947276271/"/></a>
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"       alt="https://www.linkedin.com/in/emanuel-junior-1571b3276/"/></a>
 </div>
